@@ -2,6 +2,10 @@
 
 **[HMFAYSAL V2](http://v2.theevilgenius.tk)** is a two column responsive Jekyll theme by Engineer [Hossain Mohd Faysal](http://hmfaysal.tk) featuring a slide out drawer menu in mobile browsers.
 
+## Braga Open Device Labs
+
+Helping Portuguese’s developers and entrepreneurs test, iterate and launch their ideas into great apps and mobile web sites.
+
 ## HMFAYSAL V2 is all about:
 
 * Responsive templates. Looking good on mobile, tablet, and desktop.
