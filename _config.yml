@@ -29,10 +29,12 @@ owner:
   google_plus:    
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-39365944-4
+google_analytics:   UA-47905469-1
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:        
+# https://ssl.bing.com/webmaster/configure/verify/ownership/?url=http://polonia.github.io/
+# <meta name="msvalidate.01" content="7A2AAB075CE070B49A2742355CC539CE" />
+bing_verify:  7A2AAB075CE070B49A2742355CC539CE        
 
 # Links to include in top navigation
 # For external links add external: true
