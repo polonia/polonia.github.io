@@ -1,8 +1,9 @@
 # Pedro Polonia github io website
 
-This website using Jekyll, was needing a big update, since i moved from Braga, Portugal to Belgium and later to yet other country.
+This **[website](polonia.github.io)** using Jekyll, was needing a big update, since i moved from Braga, Portugal to Belgium and later to yet other country.
 
-My goals changed and so should the content.
+My goals changed and so should the **[content](polonia.github.io)** on (polonia.github.io).
+* [Custom 404 page](http://polonia.github.io/404.html)
 
 # HMFAYSAL V2
 
