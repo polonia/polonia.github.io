@@ -1,3 +1,9 @@
+# Pedro Polonia github io website
+
+This website using Jekyll, was needing a big update, since i moved from Braga, Portugal to Belgium and later to yet other country.
+
+My goals changed and so should the content.
+
 # HMFAYSAL V2
 
 **[HMFAYSAL V2](http://v2.theevilgenius.tk)** is a two column responsive Jekyll theme by Engineer [Hossain Mohd Faysal](http://hmfaysal.tk) featuring a slide out drawer menu in mobile browsers.
